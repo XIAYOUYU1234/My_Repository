@@ -1,0 +1,52 @@
+{
+    "C_Cpp.intelliSenseEngine": "default",
+    "idf.adapterTargetName": "esp32s3",
+    "idf.customExtraPaths": "d:\\ESP32-IDF\\Espressif\\tools\\tools\\xtensa-esp-elf-gdb\\14.2_20240403\\xtensa-esp-elf-gdb\\bin;d:\\ESP32-IDF\\Espressif\\tools\\tools\\riscv32-esp-elf-gdb\\14.2_20240403\\riscv32-esp-elf-gdb\\bin;d:\\ESP32-IDF\\Espressif\\tools\\tools\\xtensa-esp-elf\\esp-13.2.0_20230928\\xtensa-esp-elf\\bin;d:\\ESP32-IDF\\Espressif\\tools\\tools\\riscv32-esp-elf\\esp-13.2.0_20230928\\riscv32-esp-elf\\bin;d:\\ESP32-IDF\\Espressif\\tools\\tools\\esp32ulp-elf\\2.35_20220830\\esp32ulp-elf\\bin;d:\\ESP32-IDF\\Espressif\\tools\\tools\\cmake\\3.24.0\\bin;d:\\ESP32-IDF\\Espressif\\tools\\tools\\openocd-esp32\\v0.12.0-esp32-20240318\\openocd-esp32\\bin;d:\\ESP32-IDF\\Espressif\\tools\\tools\\ninja\\1.11.1;d:\\ESP32-IDF\\Espressif\\tools\\tools\\idf-exe\\1.0.3;d:\\ESP32-IDF\\Espressif\\tools\\tools\\ccache\\4.8\\ccache-4.8-windows-x86_64;d:\\ESP32-IDF\\Espressif\\tools\\tools\\dfu-util\\0.11\\dfu-util-0.11-win64;d:\\ESP32-IDF\\Espressif\\tools\\tools\\esp-rom-elfs\\20230320",
+    "idf.customExtraVars": {
+        "OPENOCD_SCRIPTS": "d:\\ESP32-IDF\\Espressif\\tools\\tools\\openocd-esp32\\v0.12.0-esp32-20240318/openocd-esp32/share/openocd/scripts",
+        "IDF_CCACHE_ENABLE": "1",
+        "ESP_ROM_ELF_DIR": "d:\\ESP32-IDF\\Espressif\\tools\\tools\\esp-rom-elfs\\20230320/"
+    },
+    "idf.espIdfPathWin": "d:\\ESP32-IDF\\Espressif\\frameworks\\esp-idf-v5.2.2",
+    "idf.espAdfPathWin": "D:\\ESP32-IDF\\Espressif\\frameworks\\esp-adf",
+    "idf.openOcdConfigs": [
+        "board/esp32s3-builtin.cfg"
+    ],
+    "idf.portWin": "COM11",
+    "idf.pythonBinPathWin": "d:\\ESP32-IDF\\Espressif\\tools\\python_env\\idf5.2_py3.11_env\\Scripts\\python.exe",
+    "idf.toolsPathWin": "d:\\ESP32-IDF\\Espressif\\tools",
+    "idf.flashType": "UART",
+    "files.associations": {
+        "bsp_gpio.h": "c",
+        "gpio.h": "c",
+        "bsp_xl9555.h": "c",
+        "i2c.h": "c",
+        "bsp_i2c.h": "c",
+        "freertos_demo.h": "c",
+        "bsp_key.h": "c",
+        "esp_log.h": "c",
+        "stdio.h": "c",
+        "bsp_led.h": "c",
+        "task.h": "c",
+        "queue.h": "c",
+        "freertosconfig.h": "c",
+        "compare": "c",
+        "cstdint": "c",
+        "freertos.h": "c",
+        "bsp_usart.h": "c",
+        "uart.h": "c",
+        "array": "c",
+        "string": "c",
+        "string_view": "c",
+        "span": "c",
+        "bsp_ci1303.h": "c",
+        "i2c_master.h": "c",
+        "esp_spiffs.h": "c",
+        "stdbool.h": "c",
+        "*.inc": "c",
+        "customnvsapi.h": "c",
+        "bsp_qma6100p.h": "c"
+    },
+    "idf.gitPathWin": "d:\\ESP32-IDF\\Espressif\\tools\\tools\\idf-git\\2.39.2\\cmd\\git.exe",
+    "C_Cpp.errorSquiggles": "disabled"
+}

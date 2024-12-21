@@ -1,0 +1,1 @@
+KEY_Module + CI1303 + NVS + QMA6100P
